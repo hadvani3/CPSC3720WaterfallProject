@@ -1,0 +1,1 @@
+This assingment was worked on by Hritik Advani, Alyssa Jones and Ryan Blumberg. For this project, we used the Waterfall Method to develop a Clemson Study Buddy application. This application allows Clemson students to enter login credential to create a profile and book an open study session
